@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab04</string>
+
+    <string name="app_title"> Team Manager </string>
+
+    <string name="name_hint"> (please enter a team name) </string>
+
+    <string name="name_label"> Team Name </string>
+
+    <string name="address_hint"> (Please enter a ZIP Code)</string>
+    <string name="address_label"> Team address </string>
+
+    <string name="button_text"> OPEN IN GOOGLE MAPS </string>
+
+    <string name="new_avatar_title"> Select a new avatar</string>
+    <string name="new_avatar_button"> LOAD FROM PHONE </string>
+</resources>
